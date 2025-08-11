@@ -18,7 +18,7 @@ class OXGame extends StatelessWidget {
       Welcomescreen.routeName: (_) => Welcomescreen()
       },
 
-      initialRoute:Welcomescreen.routeName,
+      initialRoute:XoBorrderscreen.routeName,
     );
   }
 }
